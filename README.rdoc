@@ -43,3 +43,5 @@ Create and setup a database for development and another one for testing
   rake db:migrate
   rake db:seed #This will populate the database with some default info
 
+
+bye
